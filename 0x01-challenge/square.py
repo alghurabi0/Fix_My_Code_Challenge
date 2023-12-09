@@ -3,7 +3,7 @@
 
 
 class Square():
-""" My square that is very dumb """    
+    """ My square that is very dumb """    
     width = 0
     height = 0
 
